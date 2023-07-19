@@ -3,7 +3,7 @@ Resume Analyzer is a web application built with Streamlit and Python that allows
 
 Installation
 1.Clone the repository:
-git clone 
+git clone https://github.com/abhisheksingh-17/Resume-Analyzer.git
 
 2.Navigate to the project directory:
 cd resume
