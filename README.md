@@ -60,9 +60,11 @@ Feel free to customize this README file to include any additional information or
  6.Displaying Results: The determined developer type (frontend, backend, or unknown) is displayed on the web page to the user.
 ## Technologies Used
 
-1.Python
-2.Streamlit
-3.spaCy
+ 1.Python
+
+ 2.Streamlit
+
+ 3.spaCy
 ## Project Scope and Future Enhancements
 
  1.The project's scope is limited to identifying frontend and backend development roles based on keyword matching. Future enhancements could involve more sophisticated NLP techniques to determine other types of developer roles or skills.
@@ -73,8 +75,9 @@ Feel free to customize this README file to include any additional information or
 
  4.The user interface could be further improved with better visualizations and more interactive elements.
 ## License & Contribution
-The project is open-source and licensed under the MIT License, allowing others to use, modify, and distribute the code freely.
 
-The README file also encourages contributions from the community. Users can report bugs, suggest features, and submit pull requests to improve the application.
+ 1.The project is open-source and licensed under the MIT License, allowing others to use, modify, and distribute the code freely.
 
-Overall, the Resume Analyzer is a simple yet valuable tool for individuals seeking to gain insights into their developer roles based on their resumes. As an open-source project, it has the potential to grow and improve through community contributions and feedback.
+ 2.The README file also encourages contributions from the community. Users can report bugs, suggest features, and submit pull requests to improve the application.
+
+ 3.Overall, the Resume Analyzer is a simple yet valuable tool for individuals seeking to gain insights into their developer roles based on their resumes. As an open-source project, it has the potential to grow and improve through community contributions and feedback.
