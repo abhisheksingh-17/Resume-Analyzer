@@ -11,7 +11,11 @@ cd resume
 3.Install the required dependencies using pip:
 pip install -r requirements.txt
 
-4.Run the Streamlit app:
+4.There’s one more thing you’ll have to install:
+python -m spacy download en_core_web_sm
+There are various spaCy models for different languages. The default model for the English language is designated as en_core_web_sm. Since the models are quite large, it’s best to install them separately—including all languages in one package would make the download too massive
+
+5.Run the Streamlit app:
 streamlit run resume.py
 The application should now be running locally. Open your web browser and access the app at http://localhost:8501.
 
